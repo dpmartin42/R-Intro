@@ -104,9 +104,9 @@ My goal today is to focus on your needs as applied researchers
 
 ## R Examples: Shiny
 
-[SPR Cup Global Health Project](https://dpmartin42.shinyapps.io/App-1/)
-
 [Dialect Maps](http://spark.rstudio.com/jkatz/SurveyMaps/)
+
+[babynameR](http://dpmartin42.shinyapps.io/babynameR/)
 
 --- 
 
